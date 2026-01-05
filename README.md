@@ -90,7 +90,8 @@ algoviz/
         ├── mergeSort.js
         ├── quickSort.js
         ├── heapSort.js
-        └── searching.js```
+        └── searching.js
+```
 
 ---
 
