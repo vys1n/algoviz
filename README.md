@@ -16,7 +16,7 @@ This project visually demonstrates how common **sorting and searching algorithms
 
 Follow these steps to get the project running locally:
 
-### 1️⃣ Clone the repository
+### 1 Clone the repository
 ```bash
 git clone https://github.com/username/algoviz.git
 cd algoviz
