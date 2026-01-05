@@ -19,19 +19,23 @@ Follow these steps to get the project running locally:
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/username/algoviz.git
-cd algoviz```
+cd algoviz
+```
 
 ### 2 Install Dependencies
 ```bash
-npm install```
+npm install
+```
 
 ### 3 Run Development Server
 ```bash
-npm run dev```
+npm run dev
+```
 
 ### 4 Build for Production
 ```bash
-npm run build```
+npm run build
+```
 
 ---
 
